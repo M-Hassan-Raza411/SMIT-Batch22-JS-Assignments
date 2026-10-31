@@ -3,12 +3,12 @@
 **Student Name:** Muhammad Hassan Raza
 **Roll Number :** 817836
 **Batch:** 22  
-**Assignment:** Assignment 01 – JavaScript Basics
+**Assignment:** Assignment 01 – 02
 
 ## About
-This repository contains my solutions for SMIT Batch 22 JavaScript Assignment 01.
+This repository contains my solutions for SMIT Batch 22 JavaScript Assignment 01 and Assignment 02.
 
-## Assignment Structure
+## Assignment 01 Structure
 - Question 01 – Personal Information
 - Question 02 – Variable Declaration
 - Question 03 – Data Types
