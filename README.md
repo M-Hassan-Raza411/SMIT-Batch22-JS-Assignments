@@ -22,7 +22,7 @@ This repository contains my solutions for SMIT Batch 22 JavaScript Assignment 01
 - Question 11 – Currency Converter
 - Question 12 – Salary Calculator
 
-##Assignment 02 Structure
+## Assignment 02 Structure
 - Question 01 – Positive, Negative or Zero
 - Question 02 – Even or Odd Number
 - Question 03 – Voting Eligibility
